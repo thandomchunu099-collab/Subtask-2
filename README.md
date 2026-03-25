@@ -6,7 +6,7 @@ Add your full C++ program here
 #include <cmath>
 #include <algorithm>
 
-using namespace std;
+using namespace std; 
 
 // Function to convert decimal to binary 
 string decimalToBinary(int decimal) {
