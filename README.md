@@ -8,7 +8,7 @@ Add your full C++ program here
 
 using namespace std;
 
-// Function to convert decimal to binary
+// Function to convert decimal to binary 
 string decimalToBinary(int decimal) {
     if (decimal == 0) return "0"; // Special case for decimal 0 
     
