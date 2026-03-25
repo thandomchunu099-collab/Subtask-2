@@ -10,7 +10,7 @@ using namespace std;
 
 // Function to convert decimal to binary
 string decimalToBinary(int decimal) {
-    if (decimal == 0) return "0"; // Special case for decimal 0
+    if (decimal == 0) return "0"; // Special case for decimal 0 
     
     string binary = ""; // Initialize empty string to store binary representation
     
